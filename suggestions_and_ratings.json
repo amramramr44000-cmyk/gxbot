@@ -1,0 +1,509 @@
+{
+  "servers": {
+    "1430602795656024086": {
+      "rating_channel": 1430620867225849976,
+      "rating_enabled": true,
+      "rating_emojis": [
+        "❤️‍🔥"
+      ],
+      "rating_external_image": null
+    },
+    "1430626138367201352": {
+      "rating_channel": 1430879156941361213,
+      "rating_enabled": true,
+      "rating_emojis": [
+        "❤️‍🔥"
+      ],
+      "rating_external_image": null
+    },
+    "1398281305417973921": {
+      "rating_channel": 1427578825772109825,
+      "rating_enabled": true,
+      "rating_emojis": [
+        "<:star:1437174832830873630>"
+      ],
+      "rating_external_image": null
+    },
+    "1416418004232704044": {
+      "suggest_channel": 1435277790130737303,
+      "suggest_enabled": true
+    },
+    "1425172510084829207": {
+      "suggest_channel": 1431555244575162448,
+      "suggest_enabled": true
+    },
+    "1332456661335543838": {
+      "rating_channel": 1431666094418170008,
+      "rating_enabled": true,
+      "rating_emojis": [
+        "<:21f7e63c70e6d7be:1427655948712939581>"
+      ],
+      "rating_external_image": null
+    },
+    "1135237314189217792": {
+      "suggest_channel": 1431587934158721176,
+      "suggest_enabled": false
+    },
+    "1332016499623333980": {
+      "rating_channel": 1352626923662086274,
+      "rating_enabled": true,
+      "rating_emojis": [
+        "<:00:1333755746088783883>"
+      ],
+      "rating_external_image": null
+    },
+    "1429591161785421927": {
+      "suggest_channel": 1429594873618763985,
+      "suggest_enabled": true
+    },
+    "1420521543892602984": {
+      "rating_channel": 1433176358682361956,
+      "rating_enabled": true,
+      "rating_emojis": [
+        "✅"
+      ],
+      "rating_external_image": "🫡"
+    },
+    "1432788469347909713": {
+      "suggest_channel": 1433553498112528484,
+      "suggest_enabled": true
+    },
+    "1387823362574913586": {
+      "suggest_channel": 1457560135852621964,
+      "suggest_enabled": true
+    },
+    "1417855683361112078": {
+      "suggest_channel": 1436075470650347521,
+      "suggest_enabled": true
+    },
+    "1339840128050397264": {
+      "rating_channel": 1433855578802749500,
+      "rating_enabled": true,
+      "rating_emojis": [
+        "<:luckygirlsyndrome:1384867154028924939>"
+      ],
+      "rating_external_image": null,
+      "suggest_channel": 1426479636015222895,
+      "suggest_enabled": true
+    },
+    "1374757417983803432": {
+      "suggest_channel": 1434575653956489356,
+      "suggest_enabled": true
+    },
+    "1399027884722491492": {
+      "rating_channel": 1421526724860186654,
+      "rating_enabled": true,
+      "rating_emojis": [
+        "💯"
+      ],
+      "rating_external_image": null,
+      "suggest_channel": 1422223362351960135,
+      "suggest_enabled": true
+    },
+    "1404878275041558609": {
+      "rating_channel": 1434908960854638592,
+      "rating_enabled": true,
+      "rating_emojis": [
+        "🍀"
+      ],
+      "rating_external_image": "https://www2.0zz0.com/2025/11/02/19/538582839.png"
+    },
+    "1407940975854223360": {
+      "rating_channel": 1435017274187579462,
+      "rating_enabled": true,
+      "rating_emojis": [
+        "<:hattip:1430884322600161421>"
+      ],
+      "rating_external_image": "https://www2.0zz0.com/2025/11/03/21/737365815.jpeg"
+    },
+    "1268611223398907994": {
+      "suggest_channel": 1442906996830502983,
+      "suggest_enabled": true
+    },
+    "1265303825821077506": {
+      "suggest_channel": 1435426225526149172,
+      "suggest_enabled": true
+    },
+    "1436114914618904729": {
+      "rating_channel": 1436156575877431369,
+      "rating_enabled": true,
+      "rating_emojis": [
+        "<:CE:1436161431484502086>"
+      ],
+      "rating_external_image": null
+    },
+    "1436293533865607270": {
+      "rating_channel": 1436346653639446611,
+      "rating_enabled": true,
+      "rating_emojis": [],
+      "rating_external_image": null
+    },
+    "1433481106597875745": {
+      "rating_channel": 1436441635524317257,
+      "rating_enabled": true,
+      "rating_emojis": [
+        "<:welcome:1433481955000975492>"
+      ],
+      "rating_external_image": "https://f.top4top.io/p_3598qi23o0.png"
+    },
+    "1404181435245531176": {
+      "suggest_channel": 1437343673846071357,
+      "suggest_enabled": true
+    },
+    "1436019502973194290": {
+      "rating_channel": 1437852891896484051,
+      "rating_enabled": true,
+      "rating_emojis": [
+        "<:emoji_49:1437737126174392365>"
+      ],
+      "rating_external_image": null,
+      "suggest_channel": 1437855810331087009,
+      "suggest_enabled": true
+    },
+    "1420041175305420874": {
+      "suggest_channel": 1438540340922679407,
+      "suggest_enabled": true
+    },
+    "1425583479415898185": {
+      "rating_channel": 1439165002060664872,
+      "rating_enabled": false,
+      "rating_emojis": [],
+      "rating_external_image": null
+    },
+    "1433152036702257294": {
+      "suggest_channel": 1433273214964072578,
+      "suggest_enabled": true
+    },
+    "1447667645385281598": {
+      "suggest_channel": 1447667649546031124,
+      "suggest_enabled": true
+    },
+    "1418239000258416662": {
+      "suggest_channel": 1418483904465080350,
+      "suggest_enabled": true
+    },
+    "1383833734545145906": {
+      "rating_channel": 1423695984596353177,
+      "rating_enabled": true,
+      "rating_emojis": [
+        "❤️"
+      ],
+      "rating_external_image": "gh"
+    },
+    "1420811386673561631": {
+      "suggest_channel": 1442606226822140034,
+      "suggest_enabled": true
+    },
+    "1438976781234344028": {
+      "suggest_channel": 1438985110279028736,
+      "suggest_enabled": true,
+      "rating_channel": 1438985545689862194,
+      "rating_enabled": true,
+      "rating_emojis": [
+        "✅"
+      ],
+      "rating_external_image": "https://cdn.discordapp.com/attachments/1439162793709408256/1443257932971118733/standard_2.gif?ex=6936eab1&is=69359931&hm=c2376a7a7493e4380551265c4fdc44c4dd6302460538b55891a64ec9df050013&"
+    },
+    "1445728993633501236": {
+      "rating_channel": 1448259557590827059,
+      "rating_enabled": true,
+      "rating_emojis": [],
+      "rating_external_image": null
+    },
+    "1450623823601860741": {
+      "suggest_channel": 1452293663617978449,
+      "suggest_enabled": false,
+      "rating_channel": 1452297700140650607,
+      "rating_enabled": true,
+      "rating_emojis": [
+        "<:minecraftheart:1453074522671546583>"
+      ],
+      "rating_external_image": null
+    },
+    "1452000645413339155": {
+      "suggest_channel": 1452000646126637341,
+      "suggest_enabled": false
+    },
+    "922530327983964190": {
+      "suggest_channel": 1462186519941877801,
+      "suggest_enabled": false,
+      "rating_channel": 1462186519941877801,
+      "rating_enabled": true,
+      "rating_emojis": [
+        "✅",
+        "❌"
+      ],
+      "rating_external_image": null
+    },
+    "1441386329970839704": {
+      "suggest_channel": 1458218107632877678,
+      "suggest_enabled": true
+    },
+    "1421055214810828813": {
+      "suggest_channel": 1459152334373523548,
+      "suggest_enabled": true
+    },
+    "1461485844966932620": {
+      "suggest_enabled": false
+    },
+    "1335355882669871179": {
+      "suggest_channel": 1464232564997885995,
+      "suggest_enabled": true
+    },
+    "1461696142776729793": {
+      "suggest_channel": 1468792512658276513,
+      "suggest_enabled": false,
+      "rating_channel": 1465330178447118479,
+      "rating_enabled": true,
+      "rating_emojis": [
+        "<:CheckMark:1461900900821110877>"
+      ],
+      "rating_external_image": null
+    },
+    "1464947381563953154": {
+      "rating_channel": 1466173491144429689,
+      "rating_enabled": true,
+      "rating_emojis": [
+        "<:6738verifiedlogo:1466179307142643742>"
+      ],
+      "rating_external_image": null
+    },
+    "1462902180901032092": {
+      "suggest_channel": 1462909816056840417,
+      "suggest_enabled": false
+    },
+    "1466872129877180499": {
+      "suggest_channel": 1467094509585305682,
+      "suggest_enabled": true
+    },
+    "1470058786839335085": {
+      "suggest_channel": 1470065916799750320,
+      "suggest_enabled": true
+    },
+    "1433891884916412480": {
+      "rating_channel": 1474716857683542098,
+      "rating_enabled": true,
+      "rating_emojis": [
+        "<:pp521:1474724725623357485>"
+      ],
+      "rating_external_image": null
+    },
+    "1475653321179140231": {
+      "suggest_channel": 1490133507878551652,
+      "suggest_enabled": true,
+      "rating_channel": 1490094374485491722,
+      "rating_enabled": true,
+      "rating_emojis": [
+        "🫡 🫡"
+      ],
+      "rating_external_image": null
+    },
+    "1437445963177525282": {
+      "suggest_channel": 1445126924614762586,
+      "suggest_enabled": true
+    },
+    "1467571336716226937": {
+      "suggest_channel": 1467579541668233308,
+      "suggest_enabled": true
+    },
+    "1389608265297563738": {
+      "rating_channel": 1473269712849997824,
+      "rating_enabled": true,
+      "rating_emojis": [
+        "✨"
+      ],
+      "rating_external_image": "<:VinHeart:1447573900681809990>"
+    },
+    "1477764282845233202": {
+      "suggest_channel": 1477780315136069752,
+      "suggest_enabled": false,
+      "rating_channel": 1477780307733381120,
+      "rating_enabled": true,
+      "rating_emojis": [
+        "<:Like:1477767359203905627>"
+      ],
+      "rating_external_image": null
+    },
+    "1481700231992049696": {
+      "suggest_channel": 1481700233212596356,
+      "suggest_enabled": false,
+      "rating_channel": 1481700233212596357,
+      "rating_enabled": true,
+      "rating_emojis": [
+        "nd-highlights"
+      ],
+      "rating_external_image": "-and-highlights"
+    },
+    "1322537019598962699": {
+      "suggest_channel": 1478585414762762333,
+      "suggest_enabled": false
+    },
+    "1463523467029905601": {
+      "suggest_channel": 1470419811300282634,
+      "suggest_enabled": true
+    },
+    "1442463392836358264": {
+      "suggest_channel": 1483668242106024087,
+      "suggest_enabled": true
+    },
+    "1488368976999481407": {
+      "rating_channel": 1489617600177508382,
+      "rating_enabled": true,
+      "rating_emojis": [],
+      "rating_external_image": null,
+      "suggest_channel": 1489618722954936382,
+      "suggest_enabled": true
+    },
+    "1415735949622513886": {
+      "rating_channel": 1492164601649959043,
+      "rating_enabled": true,
+      "rating_emojis": [],
+      "rating_external_image": null,
+      "suggest_channel": 1492165266094817410,
+      "suggest_enabled": true
+    },
+    "1490816121547526265": {
+      "rating_channel": 1491196395410034778,
+      "rating_enabled": true,
+      "rating_emojis": [
+        "-"
+      ],
+      "rating_external_image": "-"
+    },
+    "1496467090167566486": {},
+    "1488892963906916403": {
+      "suggest_channel": 1488892970609545446,
+      "suggest_enabled": true
+    },
+    "1488446442849964082": {
+      "suggest_channel": 1499135352609181786,
+      "suggest_enabled": false
+    },
+    "1504325806304788541": {
+      "rating_enabled": false,
+      "rating_emojis": [],
+      "rating_external_image": null
+    },
+    "1315910290671538187": {
+      "rating_enabled": true,
+      "rating_emojis": [
+        "<a:0211_1333505383800766566:1507380037534351451>"
+      ],
+      "rating_external_image": null,
+      "rating_channel": 1504096303515439105
+    },
+    "1488933830587846871": {
+      "rating_channel": 1488933831657525249,
+      "rating_enabled": true,
+      "rating_emojis": [
+        "😉"
+      ],
+      "rating_external_image": "👀",
+      "suggest_channel": 1488933831657525249,
+      "suggest_enabled": true
+    },
+    "1509199227211743402": {
+      "rating_channel": 1510032625451008150,
+      "rating_enabled": true,
+      "rating_emojis": [],
+      "rating_external_image": null
+    },
+    "1445659280333078651": {},
+    "1510362308679958598": {
+      "rating_channel": 1516866497379696710,
+      "rating_enabled": false,
+      "rating_emojis": [],
+      "rating_external_image": null
+    },
+    "1510780751266713801": {
+      "rating_channel": 1510780752114094264,
+      "rating_enabled": true,
+      "rating_emojis": [
+        "🤙🏿"
+      ],
+      "rating_external_image": null
+    },
+    "1523980516133568542": {
+      "rating_channel": 1524406406562971658,
+      "rating_enabled": true,
+      "rating_emojis": [],
+      "rating_external_image": null
+    },
+    "1512048096559890432": {
+      "rating_channel": 1516046504299593798,
+      "rating_enabled": true,
+      "rating_emojis": [
+        "🌟"
+      ],
+      "rating_external_image": null
+    },
+    "1466921624782770462": {
+      "rating_channel": 1525950808938512404,
+      "rating_enabled": true,
+      "rating_emojis": [],
+      "rating_external_image": "مرحبا بكم يمكنك تقديم شكوي من هنا"
+    },
+    "1477367976867926217": {
+      "suggest_channel": 1502104627473285130,
+      "suggest_enabled": false
+    },
+    "1469125200980348930": {
+      "suggest_channel": 1470029973980053615,
+      "suggest_enabled": true
+    },
+    "1513066807970238584": {
+      "rating_channel": 1530746753530335355,
+      "rating_enabled": false,
+      "rating_emojis": [],
+      "rating_external_image": null
+    },
+    "1522229521976135872": {},
+    "1421869594750222478": {
+      "rating_channel": 1538902588215529553,
+      "rating_enabled": true,
+      "rating_emojis": [
+        "<:1334829818046320680png:1530964944869261333>"
+      ],
+      "rating_external_image": null
+    },
+    "1535817726394896454": {
+      "rating_channel": 1535821992027099136,
+      "rating_enabled": true,
+      "rating_emojis": [],
+      "rating_external_image": null
+    },
+    "1535778525187940462": {
+      "suggest_channel": 1535781816433115277,
+      "suggest_enabled": true
+    },
+    "1536960449826918430": {
+      "suggest_channel": 1536961090544603146,
+      "suggest_enabled": true
+    },
+    "1539257030680903886": {
+      "suggest_channel": 1540872065144332329,
+      "suggest_enabled": true
+    },
+    "1529460356231991476": {},
+    "1511272416259739648": {
+      "rating_channel": 1521534839046668339,
+      "rating_enabled": true,
+      "rating_emojis": [
+        "⭐٫⭐⭐٫⭐⭐⭐٫⭐⭐⭐⭐٫⭐⭐⭐⭐⭐"
+      ],
+      "rating_external_image": "."
+    },
+    "1464262175827693600": {
+      "suggest_channel": 1541731712877207642,
+      "suggest_enabled": true
+    },
+    "1458317814816444511": {
+      "suggest_channel": 1543111141222391808,
+      "suggest_enabled": true,
+      "rating_channel": 1542311615590961285,
+      "rating_enabled": false,
+      "rating_emojis": [],
+      "rating_external_image": null
+    }
+  }
+}

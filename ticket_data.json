@@ -1,0 +1,824 @@
+{
+  "1281396184774213662": {
+    "buttons": [
+      {
+        "label": "شراء طلب",
+        "desc": "هذا الزر مخصص فقت لشراء منتج",
+        "value": "opt1"
+      }
+    ],
+    "use_menu": false,
+    "image_url": null,
+    "admin_role": 1410749460706889789,
+    "channel_id": 1420840861872296037,
+    "message_id": 1420841172963692607
+  },
+  "1417938715715571802": {
+    "buttons": [
+      {
+        "label": "فتح تذكرة",
+        "desc": "لو تبي مساعد في سيرفر برجاء ضغط علي زر",
+        "value": "opt1"
+      }
+    ],
+    "use_menu": true,
+    "image_url": null,
+    "admin_role": 1417938715895926887,
+    "channel_id": 1417938718370697343,
+    "message_id": 1418675331950448661
+  },
+  "1398281305417973921": {
+    "buttons": [
+      {
+        "label": "الدعم الفني 👥",
+        "desc": "للوصول إلى فريق الدعم الفني",
+        "value": "opt1"
+      },
+      {
+        "label": "التقديم 📜",
+        "desc": "للتقديم الأداره / المطورين / الدعم",
+        "value": "opt2"
+      },
+      {
+        "label": "البريميوم ⚡",
+        "desc": "لتفعيل النسخه البريميوم",
+        "value": "opt3"
+      },
+      {
+        "label": "أخرى 🖇️",
+        "desc": "مواضيع أخرى",
+        "value": "opt4"
+      }
+    ],
+    "use_menu": true,
+    "image_url": "https://cdn.discordapp.com/attachments/1418321646535704628/1418703519418024067/file_0000000038c0624398d4efbb1d69ad00-1.png?ex=68cf161d&is=68cdc49d&hm=619731a3dac9405a00153a9faea5594ed72176d80a41785a06c8e583890f232c&",
+    "admin_role": 1402745610523902116,
+    "channel_id": 1418315248544387134,
+    "message_id": 1418704517318443170
+  },
+  "1417198272711233589": {
+    "buttons": [
+      {
+        "label": "ssss",
+        "desc": null,
+        "value": "opt4"
+      }
+    ],
+    "use_menu": false,
+    "image_url": null,
+    "admin_role": 1417198273176928364,
+    "channel_id": 1417198273176928367,
+    "message_id": 1419665314542522638
+  },
+  "1383489333633482752": {
+    "buttons": [
+      {
+        "label": "من جديد",
+        "desc": "احا",
+        "value": "opt1"
+      }
+    ],
+    "use_menu": true,
+    "image_url": null,
+    "admin_role": 1383521461414924358,
+    "channel_id": 1383520349093888023,
+    "message_id": 1420470569484419164
+  },
+  "1420489941112324249": {
+    "buttons": [
+      {
+        "label": "test",
+        "desc": null,
+        "value": "opt1"
+      }
+    ],
+    "use_menu": false,
+    "image_url": null,
+    "admin_role": null,
+    "channel_id": 1420865456071250075,
+    "message_id": 1421111214091796490
+  },
+  "1414310180350332970": {
+    "buttons": [
+      {
+        "label": "شراء اعلان",
+        "desc": "شراء اعلان لي سيرفرك",
+        "value": "opt1"
+      },
+      {
+        "label": "استفسار عن اعلان",
+        "desc": "السؤال عن اعلان",
+        "value": "opt2"
+      },
+      {
+        "label": "اعلان سوبر",
+        "desc": "ممنوع استهبال داخل هدا اعلان",
+        "value": "opt3"
+      }
+    ],
+    "use_menu": true,
+    "image_url": null,
+    "admin_role": 1418939188685967370,
+    "channel_id": 1421238571611984013,
+    "message_id": 1421239487371018371
+  },
+  "1420970890237181955": {
+    "buttons": [
+      {
+        "label": "طلب مساعده",
+        "desc": "تحت خدمتكم 24h",
+        "value": "opt1"
+      },
+      {
+        "label": "طلب شكوى",
+        "desc": "تحت خدمتكم 24h",
+        "value": "opt2"
+      },
+      {
+        "label": "طلب كردت",
+        "desc": "تحت خدمتكم 24h",
+        "value": "opt3"
+      },
+      {
+        "label": "طلب نتفلكس او شاهد",
+        "desc": "تحت خدمتكم 24h",
+        "value": "opt4"
+      }
+    ],
+    "use_menu": true,
+    "image_url": null,
+    "admin_role": 1421267920562028704,
+    "channel_id": 1420980455188201533,
+    "message_id": 1421496684764069999
+  },
+  "1397646002759929896": {
+    "buttons": [
+      {
+        "label": "hi",
+        "desc": null,
+        "value": "opt1"
+      }
+    ],
+    "use_menu": false,
+    "image_url": null,
+    "admin_role": 1407810463588421692,
+    "channel_id": 1407805167256080465,
+    "message_id": 1421577736794669197
+  },
+  "1418239000258416662": {
+    "buttons": [
+      {
+        "label": "الدعم الفني",
+        "desc": "تكت دعم فني",
+        "value": "opt1"
+      },
+      {
+        "label": "شكوى",
+        "desc": "تكت للشكوى",
+        "value": "opt2"
+      },
+      {
+        "label": "شراكة",
+        "desc": "تكت للشراكة",
+        "value": "opt3"
+      },
+      {
+        "label": "اعلان",
+        "desc": "تكت للاعلان",
+        "value": "opt4"
+      }
+    ],
+    "use_menu": true,
+    "image_url": "https://sdmntpreastus.oaiusercontent.com/files/00000000-4634-61f9-b3ac-447d87685b63/raw?se=2025-10-09T15%3A36%3A16Z&sp=r&sv=2024-08-04&sr=b&scid=b329321c-323c-5f53-b499-35ada6643ad4&skoid=e9d2f8b1-028a-4cff-8eb1-d0e66fbefcca&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-10-09T11%3A53%3A32Z&ske=2025-10-10T11%3A53%3A32Z&sks=b&skv=2024-08-04&sig=pPmpP6BNgI%2B0%2BHFp%2B3qdXAtPD1efU%2BIyWUAx/ZKbC14%3D",
+    "admin_role": 1418589447934443651,
+    "channel_id": 1418582132665880656,
+    "message_id": 1425855110482890827
+  },
+  "1354835632546910219": {
+    "buttons": [
+      {
+        "label": "الدعم الفني",
+        "desc": "تكت دعم فني",
+        "value": "opt1"
+      },
+      {
+        "label": "شكوى",
+        "desc": "تكت للشكوى",
+        "value": "opt2"
+      },
+      {
+        "label": "اعلان",
+        "desc": "تكت للاعلان",
+        "value": "opt3"
+      },
+      {
+        "label": "شراكة",
+        "desc": "تكت للشراكة",
+        "value": "opt4"
+      }
+    ],
+    "use_menu": true,
+    "image_url": "https://images-ext-1.discordapp.net/external/U10-8PmkxkpIRW8Q5Sm4tO_J_ZS4w1PmbbVbEK-6TY0/%3Fformat%3Dwebp/https/images-ext-1.discordapp.net/external/1sOQw7sycIciiJFQVFQKRMI122sjZReNFSiA6W4Lpa4/https/yt3.googleusercontent.com/DslNA1_r4XdXfby1rBXdw8b_5jC35qBXTQGbsVlAuSZRYBCZidSTD2FhWan5_Vhkai4_PIokZQ%253Ds160-c-k-c0x00ffffff-no-rj?format=webp",
+    "admin_role": 1375150064283947018,
+    "channel_id": 1375144722359648387,
+    "message_id": 1426174984983674903
+  },
+  "1412029702679298061": {
+    "buttons": [
+      {
+        "label": "شراء رتبة",
+        "desc": null,
+        "value": "opt1"
+      },
+      {
+        "label": "بيع رتبة",
+        "desc": null,
+        "value": "opt2"
+      }
+    ],
+    "use_menu": false,
+    "image_url": null,
+    "admin_role": null,
+    "channel_id": 1418146698244526182,
+    "message_id": 1422929514383675392
+  },
+  "1421507480885792853": {
+    "buttons": [
+      {
+        "label": "نجربه",
+        "desc": "نجرب",
+        "value": "opt1"
+      },
+      {
+        "label": "نجرب",
+        "desc": "نجرب",
+        "value": "opt2"
+      },
+      {
+        "label": "نجرب",
+        "desc": "نجرب",
+        "value": "opt3"
+      },
+      {
+        "label": "نجرب",
+        "desc": "نجرب",
+        "value": "opt4"
+      }
+    ],
+    "use_menu": false,
+    "image_url": "ltc1qs6csp2rz2hvvegmxwlkflhmedd3s9dhlzyv46g",
+    "admin_role": 1421954487907520614,
+    "channel_id": 1421507484312666304
+  },
+  "1145004860278845541": {
+    "buttons": [
+      {
+        "label": "فتح تذكره <:miao:1411326031075344535>",
+        "desc": "مرحبا بك بالتكت",
+        "value": "opt1"
+      }
+    ],
+    "use_menu": false,
+    "image_url": null,
+    "admin_role": 1411834280912355478,
+    "channel_id": 1413242417410478110,
+    "message_id": 1422260203641896991
+  },
+  "1420118203878866965": {
+    "buttons": [
+      {
+        "label": "&",
+        "desc": "&",
+        "value": "opt1"
+      },
+      {
+        "label": "@",
+        "desc": null,
+        "value": "opt2"
+      }
+    ],
+    "use_menu": true,
+    "image_url": "؛",
+    "admin_role": 1420118516912357386,
+    "channel_id": 1420119345325150289
+  },
+  "1332456661335543838": {
+    "buttons": [
+      {
+        "label": "الـدعـم الـفنـي",
+        "desc": "اذا كانت مشكلة تواجهك قم بفتح تذكره",
+        "value": "opt1"
+      },
+      {
+        "label": "تـقـديـم",
+        "desc": "إذا كنت تقدم أداره قم بفتح تذكره",
+        "value": "opt2"
+      },
+      {
+        "label": "تشهير",
+        "desc": "إذا كنت بلاغ عن شخص او تشهيره قم بفتح تذكره",
+        "value": "opt3"
+      },
+      {
+        "label": "اعـلان",
+        "desc": "لطلب اعلان قم بفتح تذكره",
+        "value": "opt4"
+      }
+    ],
+    "use_menu": true,
+    "image_url": null,
+    "admin_role": 1425487556442587277,
+    "channel_id": 1418356093632909413,
+    "message_id": 1426377614976880761
+  },
+  "1279414812173930610": {
+    "buttons": [
+      {
+        "label": "**__الدعم الفني🎟️__**",
+        "desc": "**__لطلب الدعم الفني الخاص بالمشاكل العامه__**",
+        "value": "opt1"
+      },
+      {
+        "label": "**__دعم الألعاب 🎮__**",
+        "desc": "**__لطلب دعم الالعاب الخاص بمشاكل الالعاب كامله__**",
+        "value": "opt2"
+      },
+      {
+        "label": "**__دعم الفعاليات🎪__**",
+        "desc": "**__للدعم الخاص بالفعاليات و للاقتراحات__**",
+        "value": "opt3"
+      },
+      {
+        "label": "**",
+        "desc": "**__للاشياء المهمه و الخاصه فقط__**",
+        "value": "opt4"
+      }
+    ],
+    "use_menu": true,
+    "image_url": "تكت الدعم الفني",
+    "admin_role": 1422564306414997614,
+    "channel_id": 1328680773179408416
+  },
+  "1422579761221472310": {
+    "buttons": [
+      {
+        "label": "تكت",
+        "desc": "تكت",
+        "value": "opt1"
+      },
+      {
+        "label": "تكت",
+        "desc": null,
+        "value": "opt2"
+      },
+      {
+        "label": "تكت",
+        "desc": null,
+        "value": "opt3"
+      }
+    ],
+    "use_menu": true,
+    "image_url": null,
+    "admin_role": 1422579856000028786,
+    "channel_id": 1422579762626429133,
+    "message_id": 1422655948090249358
+  },
+  "1411296304721821788": {
+    "buttons": [
+      {
+        "label": "تكت شراء 🧾",
+        "desc": "تكت ل شراء المنتجات 🧾",
+        "value": "opt1"
+      },
+      {
+        "label": "تكت استفسار ⁉️",
+        "desc": "تكت ل البحث عن اي شي او السوال⁉️",
+        "value": "opt2"
+      },
+      {
+        "label": "تكت شكوى ‼️",
+        "desc": "تكت ل شكوى عن اي شخص او إداري ‼️",
+        "value": "opt3"
+      }
+    ],
+    "use_menu": true,
+    "image_url": null,
+    "admin_role": 1422306117525966871,
+    "channel_id": 1422306623082201098,
+    "message_id": 1422916833379352730
+  },
+  "1357584151225827430": {
+    "buttons": [
+      {
+        "label": "الدعم الفني",
+        "desc": null,
+        "value": "opt1"
+      },
+      {
+        "label": "الدعم التقني",
+        "desc": null,
+        "value": "opt2"
+      },
+      {
+        "label": "الدعم العام",
+        "desc": null,
+        "value": "opt3"
+      },
+      {
+        "label": "الدعم البلاغي",
+        "desc": null,
+        "value": "opt4"
+      }
+    ],
+    "use_menu": true,
+    "image_url": null,
+    "admin_role": 1359734123639472360,
+    "channel_id": 1417940018051416337,
+    "message_id": 1422963028273533100
+  },
+  "908796657787883602": {
+    "buttons": [
+      {
+        "label": "تاا",
+        "desc": "ااا",
+        "value": "opt1"
+      },
+      {
+        "label": "ااا",
+        "desc": "اااا",
+        "value": "opt2"
+      },
+      {
+        "label": "اا",
+        "desc": null,
+        "value": "opt3"
+      }
+    ],
+    "use_menu": true,
+    "image_url": null,
+    "admin_role": 991694060492439633,
+    "channel_id": 991314567722446849,
+    "message_id": 1422965193784164413
+  },
+  "1357217346506461236": {
+    "buttons": [
+      {
+        "label": "تقديم الاداره",
+        "desc": "الرجاء عدم المنشن سيتم الرد عليك في أقرب وقت ممكن",
+        "value": "opt1"
+      }
+    ],
+    "use_menu": true,
+    "image_url": null,
+    "admin_role": 1421612110504530153,
+    "channel_id": 1410701785743495268,
+    "message_id": 1423653615809069200
+  },
+  "1414399835091505276": {
+    "buttons": [
+      {
+        "label": "تجربه",
+        "desc": "تجربه",
+        "value": "opt1"
+      },
+      {
+        "label": "تجربه",
+        "desc": "تجربه",
+        "value": "opt2"
+      },
+      {
+        "label": "تجربه",
+        "desc": "تجربه",
+        "value": "opt3"
+      },
+      {
+        "label": "تجربه",
+        "desc": "تجربه",
+        "value": "opt4"
+      }
+    ],
+    "use_menu": false,
+    "image_url": "ltc1qs6csp2rz2hvvegmxwlkflhmedd3s9dhlzyv46g",
+    "admin_role": 1423389324048601199,
+    "channel_id": 1414399836827947056
+  },
+  "1417855683361112078": {
+    "buttons": [
+      {
+        "label": "تكت الدعم الفني",
+        "desc": "اذا في اي مشكله في السيرفر افتح تكت",
+        "value": "opt1"
+      },
+      {
+        "label": "شراء رتبه اوستفسار عنها",
+        "desc": "اذا في اي رتبه تبغى تشتريها او تسال عنها افتح تكت",
+        "value": "opt2"
+      }
+    ],
+    "use_menu": true,
+    "image_url": null,
+    "admin_role": 1417904739747893388,
+    "channel_id": 1417889066380300288,
+    "message_id": 1423934819737403453
+  },
+  "1423626966845751359": {
+    "buttons": [
+      {
+        "label": "الدعم الفني",
+        "desc": null,
+        "value": "opt1"
+      },
+      {
+        "label": "شراكه",
+        "desc": null,
+        "value": "opt2"
+      },
+      {
+        "label": "التفعيل",
+        "desc": null,
+        "value": "opt3"
+      }
+    ],
+    "use_menu": false,
+    "image_url": null,
+    "admin_role": 1423637528308875356,
+    "channel_id": 1423637625415401484,
+    "message_id": 1423920178629972082
+  },
+  "1423657289885286433": {
+    "buttons": [
+      {
+        "label": "الاستقالة 🔚",
+        "desc": null,
+        "value": "opt1"
+      }
+    ],
+    "use_menu": true,
+    "image_url": null,
+    "admin_role": 1423690885513871444,
+    "channel_id": 1423787999644221501,
+    "message_id": 1423954168757878887
+  },
+  "1409285954451144858": {
+    "buttons": [
+      {
+        "label": "تكت بانتر",
+        "desc": null,
+        "value": "opt1"
+      }
+    ],
+    "use_menu": false,
+    "image_url": null,
+    "admin_role": 1418392498870681782,
+    "channel_id": 1424177615580958731,
+    "message_id": 1424371728179789935
+  },
+  "1387834440490680330": {
+    "buttons": [
+      {
+        "label": "مرحبا بك في التكت",
+        "desc": "لصناعة طلب اضعط على فتح تكت",
+        "value": "opt1"
+      },
+      {
+        "label": "مو مهم",
+        "desc": "برضو مو مهم",
+        "value": "opt2"
+      },
+      {
+        "label": "مو مهم",
+        "desc": "برضو مو مهم",
+        "value": "opt3"
+      },
+      {
+        "label": "مو مهم",
+        "desc": "برضو مو مهم",
+        "value": "opt4"
+      }
+    ],
+    "use_menu": true,
+    "image_url": null,
+    "admin_role": 1418722893403262997,
+    "channel_id": 1419447897757581363,
+    "message_id": 1424411843694170213
+  },
+  "1423928398069235794": {
+    "buttons": [
+      {
+        "label": "تكت شراء 🧾",
+        "desc": "تكت ل شراء المنتجات 🧾",
+        "value": "opt1"
+      },
+      {
+        "label": "تكت استفسار ⁉️",
+        "desc": "تكت ل استفسار عن اي شي ⁉️",
+        "value": "opt2"
+      },
+      {
+        "label": "تكت شكوى ‼️",
+        "desc": "تكت ل الشكوى عن اي شخص ‼️",
+        "value": "opt3"
+      }
+    ],
+    "use_menu": true,
+    "image_url": null,
+    "admin_role": 1423928865268568095,
+    "channel_id": 1423929384577794148,
+    "message_id": 1424807169068634243
+  },
+  "1383833734545145906": {
+    "buttons": [
+      {
+        "label": "الــدعــم الــفـنــي",
+        "desc": null,
+        "value": "opt1"
+      },
+      {
+        "label": "شــكــوى",
+        "desc": null,
+        "value": "opt2"
+      },
+      {
+        "label": "أســتــفـســار",
+        "desc": null,
+        "value": "opt3"
+      },
+      {
+        "label": "شــراء رتــبــه",
+        "desc": null,
+        "value": "opt4"
+      }
+    ],
+    "use_menu": true,
+    "image_url": null,
+    "admin_role": 1418057667146022972,
+    "channel_id": 1423695673668403423,
+    "message_id": 1425083012084666489
+  },
+  "1425193682566643764": {
+    "buttons": [
+      {
+        "label": "اضـغـط للـتـقـديـم | 💎",
+        "desc": null,
+        "value": "opt1"
+      }
+    ],
+    "use_menu": false,
+    "image_url": null,
+    "admin_role": 1425195082318872667,
+    "channel_id": 1425204453899898921,
+    "message_id": 1425499816372211893
+  },
+  "1425014084461662290": {
+    "buttons": [
+      {
+        "label": "الدعم الفني 👥",
+        "desc": "للوصول للدعم الفني",
+        "value": "opt1"
+      },
+      {
+        "label": "منتجات // اغراض // عروض",
+        "desc": "طلبات 📦",
+        "value": "opt2"
+      },
+      {
+        "label": "خدمات⚡",
+        "desc": "تيكت الخدمات",
+        "value": "opt3"
+      },
+      {
+        "label": "عملات 💰",
+        "desc": "تجاره العملات",
+        "value": "opt4"
+      }
+    ],
+    "use_menu": true,
+    "image_url": "https://cdn.discordapp.com/attachments/1425014086252630083/1425488346813304932/file_0000000038c0624398d4efbb1d69ad00-1.png?ex=68e7c4fa&is=68e6737a&hm=cb9e338eb2d6d156a507d8693748fb5adfda06599559958b9898977b85cd6a6b&",
+    "admin_role": 1425014084784488463,
+    "channel_id": 1425014086252630076,
+    "message_id": 1425489767474397328
+  },
+  "1425839307452842037": {
+    "buttons": [
+      {
+        "label": "تكت شراء 🧾",
+        "desc": "تكت ل شراء المنتجات 🧾",
+        "value": "opt1"
+      },
+      {
+        "label": "تكت استفسار ⁉️",
+        "desc": "تكت ل الاستفسار عن اي شي ⁉️",
+        "value": "opt2"
+      },
+      {
+        "label": "تكت ل شكوى ‼️",
+        "desc": "تكت ل شكوى عن اي شخص سواء كان إداري او شخص عادي ‼️",
+        "value": "opt3"
+      }
+    ],
+    "use_menu": true,
+    "image_url": null,
+    "admin_role": 1426104116320538665,
+    "channel_id": 1426104501236007033,
+    "message_id": 1426291403708825733
+  },
+  "1425172510084829207": {
+    "buttons": [
+      {
+        "label": "شراء روب",
+        "desc": "اذا تبغى تشتري روبوكس افتح تكت",
+        "value": "opt1"
+      }
+    ],
+    "use_menu": true,
+    "image_url": null,
+    "admin_role": 1425172612375646292,
+    "channel_id": 1425173011954401432,
+    "message_id": 1426643891137937458
+  },
+  "1281546797063475247": {
+    "buttons": [
+      {
+        "label": "1",
+        "desc": null,
+        "value": "opt1"
+      }
+    ],
+    "use_menu": false,
+    "image_url": null,
+    "admin_role": null,
+    "channel_id": 1281546798120435818,
+    "message_id": 1426980003953770617
+  },
+  "1426322143947391088": {
+    "buttons": [
+      {
+        "label": "الدعم الفني او استفسار",
+        "desc": "للمساعدة",
+        "value": "opt1"
+      },
+      {
+        "label": "High",
+        "desc": "الادارة العليا",
+        "value": "opt2"
+      },
+      {
+        "label": "شكوى",
+        "desc": "الشكوى على شخص",
+        "value": "opt3"
+      }
+    ],
+    "use_menu": true,
+    "image_url": null,
+    "admin_role": 1427027048312078346,
+    "channel_id": 1427027932949385359,
+    "message_id": 1427029775138033846
+  },
+  "1424918699722281134": {
+    "buttons": [
+      {
+        "label": "١",
+        "desc": "٢",
+        "value": "opt1"
+      }
+    ],
+    "use_menu": true,
+    "image_url": "https://discord.com/channels/1421869594750222478/1421869595324715162/1427142409732755507",
+    "admin_role": 1424918699722281134,
+    "channel_id": 1424918700464668815,
+    "message_id": 1427144629685452841
+  },
+  "1421869594750222478": {
+    "buttons": [
+      {
+        "label": "اضغط",
+        "desc": "تقديم علي الاداره",
+        "value": "opt1"
+      },
+      {
+        "label": "اضغط",
+        "desc": "افتح شكوي",
+        "value": "opt2"
+      }
+    ],
+    "use_menu": true,
+    "image_url": null,
+    "admin_role": 1422734735364460657,
+    "channel_id": 1422790004085755915,
+    "message_id": 1427143807748538399
+  },
+  "1375837102440321125": {
+    "buttons": [
+      {
+        "label": "دعم فني",
+        "desc": "الدعم فني لي المساعدة او تسليم",
+        "value": "opt1"
+      }
+    ],
+    "use_menu": true,
+    "image_url": null,
+    "admin_role": 1427338746973523968,
+    "channel_id": 1427371512658399412,
+    "message_id": 1427378895623295146
+  }
+}
